@@ -1,4 +1,3 @@
-#CS 411 - Assignment 3 Starter Code
 #Breadth First Search on 15 Puzzle
 #Sarit Adhikari
 #Spring 2024
