@@ -1,5 +1,4 @@
 #Breadth First Search on 15 Puzzle
-#Sarit Adhikari
 #Spring 2024
 
 import queue
